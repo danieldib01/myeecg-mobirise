@@ -2255,7 +2255,7 @@ body {
   color: #232323;
 }
 .cid-rkRqt0Cbsq {
-  padding-top: 60px;
+  padding-top: 105px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/matt-reames-1199594-unsplash-2000x1333.jpg");
 }
@@ -3112,6 +3112,29 @@ body {
 .cid-rkV69UUCLc P {
   color: #767676;
 }
+.cid-rkVbDQzLbi {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rkVbDQzLbi .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rkVbDQzLbi .section-text {
+  padding: 2rem 0;
+}
+.cid-rkVbDQzLbi .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rkVbDQzLbi .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rkV6q8QpOL {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3123,13 +3146,28 @@ body {
 .cid-rkV6q8QpOL H3 {
   color: #ffffff;
 }
-.cid-rkV7K1efGU {
+.cid-rkVbr0Sh20 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rkV7K1efGU .media-container-row .mbr-text {
-  color: #232323;
+.cid-rkVbr0Sh20 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rkVbr0Sh20 .section-text {
+  padding: 2rem 0;
+}
+.cid-rkVbr0Sh20 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rkVbr0Sh20 .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rkV7DVcjpx {
   padding-top: 90px;
@@ -3140,6 +3178,40 @@ body {
   color: #767676;
 }
 .cid-rkV7DVcjpx H3 {
+  color: #ffffff;
+}
+.cid-rkVbUzPgI7 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rkVbUzPgI7 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rkVbUzPgI7 .section-text {
+  padding: 2rem 0;
+}
+.cid-rkVbUzPgI7 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rkVbUzPgI7 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rkVbMJvZI2 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/newtown1-1100x734.jpg");
+}
+.cid-rkVbMJvZI2 P {
+  color: #767676;
+}
+.cid-rkVbMJvZI2 H3 {
   color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
