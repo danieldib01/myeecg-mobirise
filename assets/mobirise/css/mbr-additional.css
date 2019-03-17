@@ -3468,16 +3468,75 @@ body {
 .cid-rkYaSyllFD .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rkV6q8QpOL {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/paddington1-825x1100.jpg");
+.cid-rkYdfm0lk9 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-rkV6q8QpOL P {
+.cid-rkYdfm0lk9 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rkYdfm0lk9 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rkYdfm0lk9 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rkYdfm0lk9 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rkYdfm0lk9 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rkYdfm0lk9 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rkYdfm0lk9 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rkYdfm0lk9 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rkYdfm0lk9 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rkYcQgr0RX {
+  padding-top: 135px;
+  padding-bottom: 45px;
+  background-color: #efefef;
+}
+.cid-rkYcQgr0RX P {
   color: #767676;
-}
-.cid-rkV6q8QpOL H3 {
-  color: #ffffff;
 }
 .cid-rkYaHd4Q6G {
   padding-top: 60px;
@@ -3487,50 +3546,75 @@ body {
 .cid-rkYaHd4Q6G .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rkV7DVcjpx {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/miranda1-1100x825.jpg");
-}
-.cid-rkV7DVcjpx P {
-  color: #767676;
-}
-.cid-rkV7DVcjpx H3 {
-  color: #ffffff;
-}
-.cid-rkVbUzPgI7 {
+.cid-rkYd1VFWy2 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rkVbUzPgI7 .line {
+.cid-rkYd1VFWy2 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rkYd1VFWy2 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rkYd1VFWy2 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rkYd1VFWy2 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rkYd1VFWy2 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rkYd1VFWy2 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rkYd1VFWy2 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-rkYd1VFWy2 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rkYd1VFWy2 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rkYd6uYBtm {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
 }
-.cid-rkVbUzPgI7 .section-text {
-  padding: 2rem 0;
-}
-.cid-rkVbUzPgI7 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rkVbUzPgI7 .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rkVbMJvZI2 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/newtown1-1100x734.jpg");
-}
-.cid-rkVbMJvZI2 P {
-  color: #767676;
-}
-.cid-rkVbMJvZI2 H3 {
-  color: #ffffff;
+.cid-rkYd6uYBtm .media-container-row .mbr-text {
+  color: #232323;
 }
 .cid-rkYaZ2xrn2 {
   padding-top: 0px;
